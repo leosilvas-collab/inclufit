@@ -4,17 +4,19 @@ Este repositório apresenta o projeto IncluFit, uma iniciativa para desenvolver 
 
 O projeto foi desenvolvido como parte da disciplina Design Profissional - Experiência Prática IV.
 
+---
 
 💡 O Problema Social
 
-Apesar da importância da atividade física para a saúde, pessoas com deficiência enfrentam barreiras significativas para se exercitarem. 
+A ciência reconhece a importância da atividade física para a saúde, porém, pessoas com deficiência enfrentam barreiras significativas para se exercitarem. 
 
-Essas barreiras incluem a falta de profissionais e materiais capacitados, estruturas físicas inadequadas e aplicativos de treino tradicionais sem adaptações inclusivas. 
+Essas barreiras incluem a falta de profissionais e materiais capacitados, estruturas físicas inadequadas e de difícil acesso, além de aplicativos de treino tradicionais sem adaptações inclusivas. 
 
 Isso resulta em exclusão social, sedentarismo e piora das condições de saúde desse público.
 
 O projeto busca reduzir essas desigualdades.
 
+---
 
 🎯 A Solução Proposta
 
@@ -26,13 +28,14 @@ Recursos e Funcionalidades:
 
 - Interface Acessível: O aplicativo contará com audiodescrição, legendas, tradução em Libras e design universal;
 - Biblioteca de Treinos: Uma coleção de treinos adaptados para diferentes tipos de deficiência (física, auditiva, visual ou intelectual), organizados por nível de dificuldade e objetivos;
-- Rede de Voluntariado: Profissionais de Educação Física e fisioterapeutas poderão oferecer orientação individual ou em grupo;
+- Rede de Voluntariado: Profissionais de Educação Física, fisioterapeutas e outros profissionais de saúde poderão oferecer orientação individual ou em grupo;
 - Comunidade: Fóruns e espaços comunitários para troca de experiências e apoio mútuo entre usuários.
 
+---
 
 👥 Público-Alvo e Parceiros
 
-O aplicativo é direcionado a pessoas com deficiência que enfrentam barreiras na prática de exercícios. 
+O aplicativo é direcionado para pessoas com deficiência que enfrentam barreiras na prática de exercícios. 
 
 Familiares, cuidadores e profissionais de Educação Física também são considerados beneficiários, pois terão acesso a conteúdo educativo e uma plataforma para voluntariado.
 
@@ -41,6 +44,7 @@ O projeto buscará parcerias estratégicas com:
 - Universidades para suporte técnico e voluntariado estudantil;
 - Órgãos públicos e empresas privadas com programas de responsabilidade social.
 
+---
 
 📈 Impacto Esperado e Sustentabilidade
 
@@ -48,17 +52,19 @@ O impacto social do projeto será medido por indicadores como o número de usuá
 
 A sustentabilidade do IncluFit se baseia em dois pilares:
 - Sustentabilidade Solidária: O projeto será mantido por um modelo de voluntariado, parcerias institucionais e campanhas de doação, garantindo a gratuidade da plataforma;
-- Sustentabilidade Verde - Digital: A hospedagem do aplicativo será em data centers com energia renovável e a arquitetura de software será otimizada para reduzir o consumo de energia nos dispositivos dos usuários.
+- Sustentabilidade Verde - Digital: A hospedagem do aplicativo deverá ser em data centers com energia renovável e a arquitetura de software será otimizada para reduzir o consumo de energia nos dispositivos dos usuários.
 
+---
 
 👥 Autores
 
-Este projeto foi desenvolvido de forma colaborativa por estudantes de curso superior de tecnologia, com o objetivo de aprofundar os conhecimentos em ética e IA:
+Este projeto foi desenvolvido de forma colaborativa por estudantes de curso superior de tecnologia, com o objetivo de aprofundar os conhecimentos em Tecnologia, Inclusão e Sustentabilidade:
 
 * [Caio Gizzi](https://github.com/CaioGizzi)
-* [João](https://github.com/devjoaovieira)
+* [João Vieira](https://github.com/devjoaovieira)
 * [Leo Silva S](https://github.com/leosilvas-collab)
 
+---
 
 📌 Observação
 
