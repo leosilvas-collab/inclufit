@@ -2,7 +2,7 @@
 
 Este repositório apresenta o projeto IncluFit, uma iniciativa para desenvolver um aplicativo de impacto social que visa promover a inclusão de pessoas com deficiência na prática de atividades físicas.
 
-O projeto foi desenvolvido como parte da disciplina Design Profissional - Experiência prática IV.
+O projeto foi desenvolvido como parte da disciplina Design Profissional - Experiência Prática IV.
 
 
 💡 O Problema Social
